@@ -8,7 +8,7 @@ The provided pizza sales report dashboard visualizes sales data for a pizza rest
 
 ## Table of Contents
 
-① Dataset [Link](https://github.com/muntaha0702/Pizza_Sales_Analysis/blob/main/Pizza%20Sales%20Insights.docx)
+① Dataset [Link](https://github.com/muntaha0702/Pizza_Sales_Analysis/blob/main/pizza_sales_excel_file.xlsx)
 
 ⑥ Pizza Sales SQL Queries.pdf [Link](https://github.com/user-attachments/files/16302298/Pizza.Sales.SQL.Queries.pdf)
 
